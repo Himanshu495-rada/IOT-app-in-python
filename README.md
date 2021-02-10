@@ -7,4 +7,4 @@ Step :
 4.  Install required libraries by typing "pip install kivy, numpy, opencv-python"
 5.  Download the main.py file and run
 
-result is here (https://github.com/Himanshu495-rada/IOT-app-in-python/blob/main/Capture.JPG?raw=true)
+result is here ![image](https://github.com/Himanshu495-rada/IOT-app-in-python/blob/main/Capture.JPG?raw=true)
